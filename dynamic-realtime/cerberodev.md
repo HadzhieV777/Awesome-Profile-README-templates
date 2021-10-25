@@ -4,8 +4,8 @@
 <h3 align="center">Flutter Developer, from Perú</h3>
 
 <p align="center">
-   <a href="https://youtube.com/cerberodev" target="_blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cerberodev" width="48px" height="48px" />
+   <a href="https://es.linkedin.com/in/plamen-iliev-b35646201" target="_blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cerberodev" width="48px" height="48px" />
   </a>
   <a href="https://twitter.com/cerberodev" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cerberodev" width="48px" height="48px" />
